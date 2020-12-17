@@ -43,10 +43,28 @@ Il piano terra delle case in linea è privisto per il commercio<br>
 Superfici utile (Su) = p x S = 4 x 600mq = 2400mq<br>
 La norma prevede 25mq/ab (un minimo di superfici per abitanti)<br>
 Numeri di abitanti nella casa in linea (Ncl)<br>
-Ncl = Su / 25mq/ab = 2400mq / 25mq/ab = 96ab<br>
+Ncl = Su / 25mq/ab = 2400mq / 25mq/ab = 96ab (per i 4 piani)<br>
+Ncl = 24ab (per un piano)<br>
 Abbiamo previsto di costruire 2 case in linea<br>
 Allora ci sono 96ab x 2 = **192ab**
 
 **Casa unifamiliari/bifamiliari**
+Larghezza(l) = 10mt, lunghezza(L) = 10mt, piani(p) = 2<br>
+Superficie(S) = l x L = 12mt x 50mt = 600mq<br>
+Altezza piano terra (hc) = 4mt<br>
+Altezza interpiani (hi) = 3mt<br>
+Altezza massima degli edifici (Hm) < 16.5mt<br>
+Volume della casa in linea (Vcl) = volume del piano terra (Vp) + volume per i 4 piani (Vi)<br>
+Vp = S x hc = 600mq x 4mt = 2400mc<br>
+Vi = S x 3 x hi = 600mq x (3 x3mt) = 5400mc<br>
+Vcl = 2400mc + 5400mc = 7800mc<br>
+Il piano terra delle case in linea è privisto per il commercio<br>
+Superfici utile (Su) = p x S = 4 x 600mq = 2400mq<br>
+La norma prevede 25mq/ab (un minimo di superfici per abitanti)<br>
+Numeri di abitanti nella casa in linea (Ncl)<br>
+Ncl = Su / 25mq/ab = 2400mq / 25mq/ab = 96ab (per i 4 piani)<br>
+Ncl = 24ab (per un piano)<br>
+Abbiamo previsto di costruire 2 case in linea<br>
+Allora ci sono 96ab x 2 = **192ab**
 
 
