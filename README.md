@@ -1,5 +1,5 @@
 # STANDARD URBANISTICI E RESIDENZIALI NAZIONALI
-# Dm 1444/'68 - Zone territoriali<br> omogenee -<br> Standard nazionali
+# Dm 1444/'68 - Zone territoriali omogenee - Standard nazionali
 
 ## ZONE OMOGENE
 
@@ -19,9 +19,13 @@ ZONA F: comprende le parti del territorio destinate ad attrezzature di interesse
 It = 1mc/mq (Indice di edificabilita territoriale)<br>
 St = 32400mq (Superfici territoriale)<br>
 Ve (Volume edificabile) = St x It<br>
-Ve = 32400mq x 1mc/mq = 32400mc<br>
+Ve = 32400mq x 1mc/mq = **32400mc**<br>
+Altezza massima degli edifici pari a Hmax = 16.5 mt<br>
+Superfici massima edificabile (Se) Se = Ve / Hmax = 32400mc / 16.5mt = **1963.64mq**<br>
 Un max del 20% della volumetria complessiva per il commercio (Vc)<br>
 Vc = Ve x 20% = 32400mc x 20% = 6480mc<br>
+Altezza per il comercio (hc), hc = 4mt
+Superfici per il commercio (Sc) = Vc / hc = 6480mc / 4mt = **1620mq**
 Volume realizabile (Vr) = Ve - Vc = 32400mc - 6480mc<br>
 Vr = 25920mc<br>
 Vt (Consumo volume teorico) = 100mc/ab<br>
@@ -34,7 +38,7 @@ Larghezza(l) = 12mt, lunghezza(L) = 50mt, piani(p) = 4<br>
 Superficie(S) = l x L = 12mt x 50mt = 600mq<br>
 Altezza piano terra (hc) = 4mt<br>
 Altezza interpiani (hi) = 3mt<br>
-Altezza massima degli edifici (Hm) < 16.5mt<br>
+Altezza massima degli edifici (Hmax) < 16.5mt (secondo Le Norme Tecniche di Attuazione del Piano Regolatore)<br>
 Volume della casa in linea (Vcl) = volume del piano terra (Vp) + volume per i 4 piani (Vi)<br>
 Vp = S x hc = 600mq x 4mt = 2400mc<br>
 Vi = S x 3 x hi = 600mq x (3 x3mt) = 5400mc<br>
@@ -50,16 +54,10 @@ Allora ci sono 96ab x 2 = **192ab**
 
 **Casa unifamiliari/bifamiliari**
 Larghezza(l) = 10mt, lunghezza(L) = 10mt, piani(p) = 2<br>
-Superficie(S) = l x L = 12mt x 50mt = 600mq<br>
-Altezza piano terra (hc) = 4mt<br>
+Superficie(S) = l x L = 10mt x 10mt = 100mq<br>
 Altezza interpiani (hi) = 3mt<br>
-Altezza massima degli edifici (Hm) < 16.5mt<br>
-Volume della casa in linea (Vcl) = volume del piano terra (Vp) + volume per i 4 piani (Vi)<br>
-Vp = S x hc = 600mq x 4mt = 2400mc<br>
-Vi = S x 3 x hi = 600mq x (3 x3mt) = 5400mc<br>
-Vcl = 2400mc + 5400mc = 7800mc<br>
-Il piano terra delle case in linea è privisto per il commercio<br>
-Superfici utile (Su) = p x S = 4 x 600mq = 2400mq<br>
+Volume della casa unifamiliari (Vcu)
+Vcu = S x hi = 100mq x (3mt + 3mt) = 600mc<br>
 La norma prevede 25mq/ab (un minimo di superfici per abitanti)<br>
 Numeri di abitanti nella casa in linea (Ncl)<br>
 Ncl = Su / 25mq/ab = 2400mq / 25mq/ab = 96ab (per i 4 piani)<br>
