@@ -52,7 +52,7 @@ Ncl = 24ab (per un piano)<br>
 Abbiamo previsto di costruire 3 case in linea<br>
 Allora ci sono 72ab x 3 = **216ab**
 
-**Casa unifamiliari/bifamiliari**
+**Casa unifamiliari/bifamiliari**<br>
 Larghezza(l) = 10mt, lunghezza(L) = 10mt, piani(p) = 2<br>
 Superficie(S) = l x L = 10mt x 10mt = 100mq<br>
 Altezza interpiani (hi) = 3mt<br>
@@ -65,4 +65,23 @@ Ncl = 4ab (per un piano)<br>
 Abbiamo previsto di costruire 6 case in linea<br>
 Allora ci sono 8ab x 6 = **48ab**
 
+**Fabbisogno**<br>
+Dm 1444/’68 standard = 18 mq/ab<br>
+Per cui fabbisogno = (18 x 260) = **4680 mq**
+
+**Verde**<br>
+Verde = 9 mq/ab<br>
+Verde = 9 x 260 = **2340 mq**
+
+**Istruzione**<br>
+Istruzione = 4,5 mq/ab<br>
+Istruzione = 4,5 x 260 = **1170 mq**
+
+**Parcheggi**<br>
+Parcheggi = 2,5 mq/ab<br>
+Parcheggi = 2,5 x 260 = **650 mq**
+
+**Interesse comune**<br>
+Interesse comune = 2 mq/ab<br>
+Interesse comune = 2 x 260 = **520 mq**
 
