@@ -57,12 +57,12 @@ Larghezza(l) = 10mt, lunghezza(L) = 10mt, piani(p) = 2<br>
 Superficie(S) = l x L = 10mt x 10mt = 100mq<br>
 Altezza interpiani (hi) = 3mt<br>
 Volume della casa unifamiliari (Vcu)
-Vcu = S x hi = 100mq x (3mt + 3mt) = 600mc<br>
+Vcu = S x 2 x hi = 100mq x 2 x 3mt = 600mc<br>
 La norma prevede 25mq/ab (un minimo di superfici per abitanti)<br>
 Numeri di abitanti nella casa in linea (Ncl)<br>
-Ncl = Su / 25mq/ab = 2400mq / 25mq/ab = 96ab (per i 4 piani)<br>
-Ncl = 24ab (per un piano)<br>
-Abbiamo previsto di costruire 2 case in linea<br>
-Allora ci sono 96ab x 2 = **192ab**
+Ncl = Su / 25mq/ab = 200mq / 25mq/ab = 8ab (per i 2 piani)<br>
+Ncl = 4ab (per un piano)<br>
+Abbiamo previsto di costruire 6 case in linea<br>
+Allora ci sono 8ab x 6 = **48ab**
 
 
