@@ -39,18 +39,18 @@ Superficie(S) = l x L = 12mt x 50mt = 600mq<br>
 Altezza piano terra (hc) = 4mt<br>
 Altezza interpiani (hi) = 3mt<br>
 Altezza massima degli edifici (Hmax) < 16.5mt (secondo Le Norme Tecniche di Attuazione del Piano Regolatore)<br>
-Volume della casa in linea (Vcl) = volume del piano terra (Vp) + volume per i 4 piani (Vi)<br>
+Volume della casa in linea (Vcl) = volume del piano terra (Vp) + volume per i 3 piani (Vi)<br>
 Vp = S x hc = 600mq x 4mt = 2400mc<br>
 Vi = S x 3 x hi = 600mq x (3 x3mt) = 5400mc<br>
 Vcl = 2400mc + 5400mc = 7800mc<br>
 Il piano terra delle case in linea è privisto per il commercio<br>
-Superfici utile (Su) = p x S = 4 x 600mq = 2400mq<br>
+Superfici utile (Su) = p x S = 3 x 600mq = 1800mq<br>
 La norma prevede 25mq/ab (un minimo di superfici per abitanti)<br>
 Numeri di abitanti nella casa in linea (Ncl)<br>
-Ncl = Su / 25mq/ab = 2400mq / 25mq/ab = 96ab (per i 4 piani)<br>
+Ncl = Su / 25mq/ab = 1800mq / 25mq/ab = 72ab (per i 3 piani)<br>
 Ncl = 24ab (per un piano)<br>
-Abbiamo previsto di costruire 2 case in linea<br>
-Allora ci sono 96ab x 2 = **192ab**
+Abbiamo previsto di costruire 3 case in linea<br>
+Allora ci sono 72ab x 3 = **216ab**
 
 **Casa unifamiliari/bifamiliari**
 Larghezza(l) = 10mt, lunghezza(L) = 10mt, piani(p) = 2<br>
